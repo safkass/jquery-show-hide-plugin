@@ -1,5 +1,7 @@
 jquery Show Hide Plugin
 =======================
+
+[![Join the chat at https://gitter.im/safkass/jquery-show-hide-plugin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/safkass/jquery-show-hide-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <h4>Introduction:</h4>
 Pluggin for globally show/hide div and inner container as per requirement.
 if you face any issues or any new idea about this plugin please share with me, I would love to work on it.
